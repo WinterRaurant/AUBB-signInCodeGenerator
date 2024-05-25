@@ -1,7 +1,4 @@
 from flask import Flask, render_template, send_from_directory
-import matplotlib.pyplot as plt
-import numpy as np
-import os
 import time
 import threading
 import temp

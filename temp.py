@@ -1,7 +1,5 @@
-# import requests
 import time
 import qrcode
-from PIL import Image
 
 courseSchedId = ''
 
@@ -22,14 +20,8 @@ def generate_qr_code(url):
 def get():
     current_timestamp_seconds = time.time()
     current_timestamp_milliseconds = int(current_timestamp_seconds * 1000)
-    # print(current_timestamp_milliseconds)
 
     str = f'http://iclass.buaa.edu.cn:8081/app/course/stu_scan_sign.action?courseSchedId={courseSchedId}&timestamp={current_timestamp_milliseconds}'
 
     qr_code_img = generate_qr_code(str)
-    # qr_code_img.show()
     qr_code_img.save('static/images/plot.png')
-
-
-# response = requests.get(url=str, cookies=cookie)
-# print(response.text)
