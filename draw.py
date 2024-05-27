@@ -17,7 +17,11 @@ def generate_qr_code(url):
     return img
 
 
-def get():
+def get(id):
+    global courseSchedId
+    if id != None:
+        courseSchedId = id
+
     current_timestamp_seconds = time.time()
     current_timestamp_milliseconds = int(current_timestamp_seconds * 1000)
 

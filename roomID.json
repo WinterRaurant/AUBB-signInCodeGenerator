@@ -1,0 +1,2024 @@
+[
+    {
+        "id": "100",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B106"
+    },
+    {
+        "id": "101",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B118"
+    },
+    {
+        "id": "102",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B119"
+    },
+    {
+        "id": "103",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B121"
+    },
+    {
+        "id": "104",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B122"
+    },
+    {
+        "id": "105",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B201"
+    },
+    {
+        "id": "106",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B202"
+    },
+    {
+        "id": "107",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B204"
+    },
+    {
+        "id": "108",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B206"
+    },
+    {
+        "id": "109",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B208"
+    },
+    {
+        "id": "110",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B216"
+    },
+    {
+        "id": "111",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B221"
+    },
+    {
+        "id": "112",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B223"
+    },
+    {
+        "id": "113",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B225"
+    },
+    {
+        "id": "114",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "B228"
+    },
+    {
+        "id": "115",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "C102"
+    },
+    {
+        "id": "116",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "C201"
+    },
+    {
+        "id": "118",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "D215"
+    },
+    {
+        "id": "119",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "D218"
+    },
+    {
+        "id": "120",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "D221"
+    },
+    {
+        "id": "121",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "D225"
+    },
+    {
+        "id": "126",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "E207"
+    },
+    {
+        "id": "127",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F101"
+    },
+    {
+        "id": "128",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F102"
+    },
+    {
+        "id": "129",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F103"
+    },
+    {
+        "id": "130",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F117"
+    },
+    {
+        "id": "131",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F118"
+    },
+    {
+        "id": "132",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F121"
+    },
+    {
+        "id": "133",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F122"
+    },
+    {
+        "id": "134",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F201"
+    },
+    {
+        "id": "135",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F203"
+    },
+    {
+        "id": "136",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F205"
+    },
+    {
+        "id": "137",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F207"
+    },
+    {
+        "id": "138",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F213"
+    },
+    {
+        "id": "139",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F219"
+    },
+    {
+        "id": "140",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F222"
+    },
+    {
+        "id": "141",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F224"
+    },
+    {
+        "id": "142",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F227"
+    },
+    {
+        "id": "143",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "F228"
+    },
+    {
+        "id": "146",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "G101"
+    },
+    {
+        "id": "147",
+        "campus": "学院路校区",
+        "building": "新主楼",
+        "classroom": "G201"
+    },
+    {
+        "id": "148",
+        "campus": "沙河校区",
+        "building": "教零楼",
+        "classroom": "J0-001"
+    },
+    {
+        "id": "149",
+        "campus": "沙河校区",
+        "building": "教零楼",
+        "classroom": "J0-002"
+    },
+    {
+        "id": "150",
+        "campus": "沙河校区",
+        "building": "教零楼",
+        "classroom": "J0-003"
+    },
+    {
+        "id": "151",
+        "campus": "沙河校区",
+        "building": "教零楼",
+        "classroom": "J0-004"
+    },
+    {
+        "id": "152",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-101"
+    },
+    {
+        "id": "153",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-102"
+    },
+    {
+        "id": "154",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-103"
+    },
+    {
+        "id": "155",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-104"
+    },
+    {
+        "id": "156",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-105"
+    },
+    {
+        "id": "157",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-106"
+    },
+    {
+        "id": "158",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-107"
+    },
+    {
+        "id": "159",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-108"
+    },
+    {
+        "id": "160",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-109"
+    },
+    {
+        "id": "161",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-110"
+    },
+    {
+        "id": "162",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-201"
+    },
+    {
+        "id": "163",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-202"
+    },
+    {
+        "id": "164",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-203"
+    },
+    {
+        "id": "165",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-204"
+    },
+    {
+        "id": "166",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-205"
+    },
+    {
+        "id": "167",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-206"
+    },
+    {
+        "id": "168",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-207"
+    },
+    {
+        "id": "169",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-208"
+    },
+    {
+        "id": "170",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-209"
+    },
+    {
+        "id": "171",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-210"
+    },
+    {
+        "id": "172",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-301"
+    },
+    {
+        "id": "173",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-302"
+    },
+    {
+        "id": "174",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-303"
+    },
+    {
+        "id": "175",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-304"
+    },
+    {
+        "id": "176",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-305"
+    },
+    {
+        "id": "177",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-306"
+    },
+    {
+        "id": "178",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-307"
+    },
+    {
+        "id": "179",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-308"
+    },
+    {
+        "id": "180",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-309"
+    },
+    {
+        "id": "181",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-310"
+    },
+    {
+        "id": "182",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-402"
+    },
+    {
+        "id": "183",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-403"
+    },
+    {
+        "id": "184",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-404"
+    },
+    {
+        "id": "185",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-407"
+    },
+    {
+        "id": "186",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-408"
+    },
+    {
+        "id": "187",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-409"
+    },
+    {
+        "id": "189",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-501"
+    },
+    {
+        "id": "190",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-509"
+    },
+    {
+        "id": "191",
+        "campus": "沙河校区",
+        "building": "教二楼",
+        "classroom": "J2-501"
+    },
+    {
+        "id": "192",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-101"
+    },
+    {
+        "id": "193",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-102"
+    },
+    {
+        "id": "194",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-103"
+    },
+    {
+        "id": "195",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-104"
+    },
+    {
+        "id": "196",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-105"
+    },
+    {
+        "id": "197",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-106"
+    },
+    {
+        "id": "198",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-107"
+    },
+    {
+        "id": "199",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-201"
+    },
+    {
+        "id": "200",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-202"
+    },
+    {
+        "id": "201",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-204"
+    },
+    {
+        "id": "202",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-205"
+    },
+    {
+        "id": "203",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-206"
+    },
+    {
+        "id": "206",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-210"
+    },
+    {
+        "id": "207",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-211"
+    },
+    {
+        "id": "208",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-212"
+    },
+    {
+        "id": "209",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-301"
+    },
+    {
+        "id": "210",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-302"
+    },
+    {
+        "id": "211",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-303"
+    },
+    {
+        "id": "212",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-304"
+    },
+    {
+        "id": "213",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-305"
+    },
+    {
+        "id": "214",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-306"
+    },
+    {
+        "id": "215",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-308"
+    },
+    {
+        "id": "216",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-309"
+    },
+    {
+        "id": "217",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-310"
+    },
+    {
+        "id": "218",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-311"
+    },
+    {
+        "id": "219",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-312"
+    },
+    {
+        "id": "220",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-401"
+    },
+    {
+        "id": "221",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-402"
+    },
+    {
+        "id": "222",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-404"
+    },
+    {
+        "id": "223",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-405"
+    },
+    {
+        "id": "224",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-406"
+    },
+    {
+        "id": "225",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-408"
+    },
+    {
+        "id": "226",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-409"
+    },
+    {
+        "id": "227",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-410"
+    },
+    {
+        "id": "228",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-411"
+    },
+    {
+        "id": "229",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-412"
+    },
+    {
+        "id": "230",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-101"
+    },
+    {
+        "id": "232",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-103"
+    },
+    {
+        "id": "235",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-106"
+    },
+    {
+        "id": "236",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-201"
+    },
+    {
+        "id": "238",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-203"
+    },
+    {
+        "id": "239",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-204"
+    },
+    {
+        "id": "241",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-206"
+    },
+    {
+        "id": "242",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-301"
+    },
+    {
+        "id": "244",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-303"
+    },
+    {
+        "id": "245",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-304"
+    },
+    {
+        "id": "247",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-306"
+    },
+    {
+        "id": "248",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-401"
+    },
+    {
+        "id": "250",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-403"
+    },
+    {
+        "id": "251",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-404"
+    },
+    {
+        "id": "253",
+        "campus": "沙河校区",
+        "building": "教四楼",
+        "classroom": "J4-406"
+    },
+    {
+        "id": "254",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-101"
+    },
+    {
+        "id": "255",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-102"
+    },
+    {
+        "id": "257",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-104"
+    },
+    {
+        "id": "258",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-105"
+    },
+    {
+        "id": "259",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-106"
+    },
+    {
+        "id": "260",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-201"
+    },
+    {
+        "id": "261",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-202"
+    },
+    {
+        "id": "262",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-203"
+    },
+    {
+        "id": "263",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-204"
+    },
+    {
+        "id": "264",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-205"
+    },
+    {
+        "id": "265",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-206"
+    },
+    {
+        "id": "266",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-208"
+    },
+    {
+        "id": "267",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-209"
+    },
+    {
+        "id": "268",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-210"
+    },
+    {
+        "id": "269",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-211"
+    },
+    {
+        "id": "270",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-301"
+    },
+    {
+        "id": "271",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-302"
+    },
+    {
+        "id": "272",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-303"
+    },
+    {
+        "id": "273",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-304"
+    },
+    {
+        "id": "274",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-305"
+    },
+    {
+        "id": "275",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-306"
+    },
+    {
+        "id": "276",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-308"
+    },
+    {
+        "id": "277",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-309"
+    },
+    {
+        "id": "278",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-310"
+    },
+    {
+        "id": "279",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-311"
+    },
+    {
+        "id": "280",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-401"
+    },
+    {
+        "id": "281",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-402"
+    },
+    {
+        "id": "282",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-403"
+    },
+    {
+        "id": "283",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-404"
+    },
+    {
+        "id": "284",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-405"
+    },
+    {
+        "id": "285",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-406"
+    },
+    {
+        "id": "286",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-408"
+    },
+    {
+        "id": "287",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-409"
+    },
+    {
+        "id": "288",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-410"
+    },
+    {
+        "id": "289",
+        "campus": "沙河校区",
+        "building": "教五楼",
+        "classroom": "J5-411"
+    },
+    {
+        "id": "380",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主409"
+    },
+    {
+        "id": "389",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M101"
+    },
+    {
+        "id": "390",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M102"
+    },
+    {
+        "id": "391",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M201"
+    },
+    {
+        "id": "392",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M202"
+    },
+    {
+        "id": "393",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M203"
+    },
+    {
+        "id": "394",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M204"
+    },
+    {
+        "id": "395",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M301"
+    },
+    {
+        "id": "396",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M302"
+    },
+    {
+        "id": "397",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M304"
+    },
+    {
+        "id": "398",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M401"
+    },
+    {
+        "id": "399",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M402"
+    },
+    {
+        "id": "400",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M403"
+    },
+    {
+        "id": "401",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主M404"
+    },
+    {
+        "id": "454",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-405"
+    },
+    {
+        "id": "455",
+        "campus": "沙河校区",
+        "building": "教一楼",
+        "classroom": "J1-406"
+    },
+    {
+        "id": "698",
+        "campus": "沙河校区",
+        "building": "教二楼",
+        "classroom": "J2-207"
+    },
+    {
+        "id": "699",
+        "campus": "沙河校区",
+        "building": "教二楼",
+        "classroom": "J2-307"
+    },
+    {
+        "id": "700",
+        "campus": "沙河校区",
+        "building": "教二楼",
+        "classroom": "J2-407"
+    },
+    {
+        "id": "727",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-203"
+    },
+    {
+        "id": "728",
+        "campus": "沙河校区",
+        "building": "教三楼",
+        "classroom": "J3-407"
+    },
+    {
+        "id": "902",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）103"
+    },
+    {
+        "id": "903",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）104"
+    },
+    {
+        "id": "904",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）105"
+    },
+    {
+        "id": "905",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）106"
+    },
+    {
+        "id": "906",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）111"
+    },
+    {
+        "id": "907",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）112"
+    },
+    {
+        "id": "908",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）203"
+    },
+    {
+        "id": "909",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）204"
+    },
+    {
+        "id": "910",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）205"
+    },
+    {
+        "id": "911",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）217"
+    },
+    {
+        "id": "912",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）218"
+    },
+    {
+        "id": "913",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）219"
+    },
+    {
+        "id": "914",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）303"
+    },
+    {
+        "id": "915",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）304"
+    },
+    {
+        "id": "916",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）305"
+    },
+    {
+        "id": "917",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）317"
+    },
+    {
+        "id": "918",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）318"
+    },
+    {
+        "id": "919",
+        "campus": "学院路校区",
+        "building": "五号楼",
+        "classroom": "（五）319"
+    },
+    {
+        "id": "947",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)113"
+    },
+    {
+        "id": "948",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)104"
+    },
+    {
+        "id": "949",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)103"
+    },
+    {
+        "id": "950",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)102"
+    },
+    {
+        "id": "951",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)101"
+    },
+    {
+        "id": "952",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)131"
+    },
+    {
+        "id": "953",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)130"
+    },
+    {
+        "id": "954",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)128"
+    },
+    {
+        "id": "955",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)205"
+    },
+    {
+        "id": "956",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)204"
+    },
+    {
+        "id": "957",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)203"
+    },
+    {
+        "id": "958",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)202"
+    },
+    {
+        "id": "959",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)201"
+    },
+    {
+        "id": "961",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)214"
+    },
+    {
+        "id": "965",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)303"
+    },
+    {
+        "id": "966",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)302"
+    },
+    {
+        "id": "968",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)314"
+    },
+    {
+        "id": "972",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)310"
+    },
+    {
+        "id": "975",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)410"
+    },
+    {
+        "id": "976",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)409"
+    },
+    {
+        "id": "977",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)408"
+    },
+    {
+        "id": "978",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)114"
+    },
+    {
+        "id": "979",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)112"
+    },
+    {
+        "id": "980",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)111"
+    },
+    {
+        "id": "981",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)110"
+    },
+    {
+        "id": "982",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)109"
+    },
+    {
+        "id": "983",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)108"
+    },
+    {
+        "id": "984",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)107"
+    },
+    {
+        "id": "985",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)106"
+    },
+    {
+        "id": "986",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)105"
+    },
+    {
+        "id": "987",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)129"
+    },
+    {
+        "id": "988",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)127"
+    },
+    {
+        "id": "989",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)126"
+    },
+    {
+        "id": "990",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)125"
+    },
+    {
+        "id": "991",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)124"
+    },
+    {
+        "id": "992",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)123"
+    },
+    {
+        "id": "993",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)122"
+    },
+    {
+        "id": "994",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)121"
+    },
+    {
+        "id": "995",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)120"
+    },
+    {
+        "id": "996",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)119"
+    },
+    {
+        "id": "997",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)117"
+    },
+    {
+        "id": "998",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)209"
+    },
+    {
+        "id": "1000",
+        "campus": "学院路校区",
+        "building": "三号楼",
+        "classroom": "(三)406"
+    },
+    {
+        "id": "1025",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主102"
+    },
+    {
+        "id": "1026",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主103"
+    },
+    {
+        "id": "1027",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主109"
+    },
+    {
+        "id": "1028",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主112"
+    },
+    {
+        "id": "1029",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主119"
+    },
+    {
+        "id": "1030",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主121"
+    },
+    {
+        "id": "1031",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主201"
+    },
+    {
+        "id": "1032",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主202"
+    },
+    {
+        "id": "1033",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主203"
+    },
+    {
+        "id": "1034",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主209"
+    },
+    {
+        "id": "1035",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主212"
+    },
+    {
+        "id": "1036",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主213"
+    },
+    {
+        "id": "1037",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主217"
+    },
+    {
+        "id": "1038",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主219"
+    },
+    {
+        "id": "1039",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南201"
+    },
+    {
+        "id": "1040",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南202"
+    },
+    {
+        "id": "1041",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南203"
+    },
+    {
+        "id": "1042",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南205"
+    },
+    {
+        "id": "1043",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南206"
+    },
+    {
+        "id": "1044",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南208"
+    },
+    {
+        "id": "1045",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北201"
+    },
+    {
+        "id": "1046",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北202"
+    },
+    {
+        "id": "1047",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北203"
+    },
+    {
+        "id": "1048",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北204"
+    },
+    {
+        "id": "1049",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北205"
+    },
+    {
+        "id": "1050",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北206"
+    },
+    {
+        "id": "1051",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北209"
+    },
+    {
+        "id": "1052",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主301"
+    },
+    {
+        "id": "1053",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主302"
+    },
+    {
+        "id": "1054",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主303"
+    },
+    {
+        "id": "1055",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主305"
+    },
+    {
+        "id": "1056",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主309"
+    },
+    {
+        "id": "1057",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主311"
+    },
+    {
+        "id": "1058",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主313"
+    },
+    {
+        "id": "1059",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主321"
+    },
+    {
+        "id": "1060",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主323"
+    },
+    {
+        "id": "1061",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南301"
+    },
+    {
+        "id": "1062",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南302"
+    },
+    {
+        "id": "1063",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南303"
+    },
+    {
+        "id": "1064",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南305"
+    },
+    {
+        "id": "1065",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南306"
+    },
+    {
+        "id": "1066",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南308"
+    },
+    {
+        "id": "1067",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主401"
+    },
+    {
+        "id": "1068",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主402"
+    },
+    {
+        "id": "1069",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主403"
+    },
+    {
+        "id": "1070",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主405"
+    },
+    {
+        "id": "1071",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南401"
+    },
+    {
+        "id": "1072",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南402"
+    },
+    {
+        "id": "1073",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南403"
+    },
+    {
+        "id": "1074",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南405"
+    },
+    {
+        "id": "1075",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南408"
+    },
+    {
+        "id": "1076",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南409"
+    },
+    {
+        "id": "1100",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主206"
+    },
+    {
+        "id": "1101",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主207"
+    },
+    {
+        "id": "1102",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主208"
+    },
+    {
+        "id": "1103",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主210"
+    },
+    {
+        "id": "1104",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主211"
+    },
+    {
+        "id": "1106",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主215"
+    },
+    {
+        "id": "1107",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主216"
+    },
+    {
+        "id": "1108",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主218"
+    },
+    {
+        "id": "1109",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主220"
+    },
+    {
+        "id": "1110",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主221"
+    },
+    {
+        "id": "1111",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南204"
+    },
+    {
+        "id": "1112",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南207"
+    },
+    {
+        "id": "1113",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北207"
+    },
+    {
+        "id": "1114",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北208"
+    },
+    {
+        "id": "1115",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北210"
+    },
+    {
+        "id": "1116",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主北211"
+    },
+    {
+        "id": "1117",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主304"
+    },
+    {
+        "id": "1118",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主306"
+    },
+    {
+        "id": "1119",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主307"
+    },
+    {
+        "id": "1120",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主308"
+    },
+    {
+        "id": "1121",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主310"
+    },
+    {
+        "id": "1122",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主312"
+    },
+    {
+        "id": "1123",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主314"
+    },
+    {
+        "id": "1124",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主315"
+    },
+    {
+        "id": "1125",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主316"
+    },
+    {
+        "id": "1126",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主317"
+    },
+    {
+        "id": "1127",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主318"
+    },
+    {
+        "id": "1128",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主319"
+    },
+    {
+        "id": "1129",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主320"
+    },
+    {
+        "id": "1130",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主322"
+    },
+    {
+        "id": "1131",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南304"
+    },
+    {
+        "id": "1132",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "主南307"
+    },
+    {
+        "id": "1133",
+        "campus": "学院路校区",
+        "building": "主楼",
+        "classroom": "411"
+    }
+]
