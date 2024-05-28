@@ -5,9 +5,8 @@ import json
 import cookie2dict
 
 data = []
-cookies = ''
 
-def getCourseSchedId(dorm_id=1075):
+def getCourseSchedId(dorm_id, cookies):
 
     assert dorm_id != None
     headers = {
@@ -55,7 +54,6 @@ def filter(data, key, value=0):
     return dict
 
 def getRoomID():
-    # global data
     with open('roomID.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
     
@@ -90,11 +88,10 @@ def getRoomID():
     return roomid
 
 def func():
-    global cookies
     id = getRoomID()
     str = input('cookie:\n')
     cookies = cookie2dict.split_string_to_dict(str)
-    return getCourseSchedId(id)
+    return getCourseSchedId(id, cookies)
     
 
 if __name__ == '__main__':
