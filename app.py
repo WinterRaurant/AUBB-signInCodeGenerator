@@ -4,26 +4,32 @@ import threading
 import draw
 import getIdByRoom
 import getIdByShced
+import getIdByStuId
 
 roomid = None
 def pre():
     global roomid
-    opt=input('是否启用自动获取courseID?(y/n):\n')
-    if opt == 'y' or opt == 'Y':
-        opt2 = input('获取课表上正在直播的课输入1，根据教室获取2：\n')
-        if opt2 == '1':
-            flag, msg = getIdByShced.func()
-            if flag == 1:
-                roomid = msg
-            else:
-                print('获取失败，请手动输入教室')
-                roomid = getIdByRoom.func()
-                if roomid == None:
-                    raise Exception("获取失败！请手动输入courseSchedId！")
-        elif opt2 == '2':
-            roomid = getIdByRoom.func()
-            if roomid == None:
-                raise Exception("获取失败！请手动输入courseSchedId！")
+    flag, res = getIdByNum.func()
+    if flag == 1:
+        roomid = res
+    else:
+        raise Exception("没有正在进行的课程！")
+#     opt=input('是否启用自动获取courseID?(y/n):\n')
+#     if opt == 'y' or opt == 'Y':
+#         opt2 = input('获取课表上正在直播的课输入1，根据教室获取2：\n')
+#         if opt2 == '1':
+#             flag, msg = getIdByShced.func()
+#             if flag == 1:
+#                 roomid = msg
+#             else:
+#                 print('获取失败，请手动输入教室')
+#                 roomid = getIdByRoom.func()
+#                 if roomid == None:
+#                     raise Exception("获取失败！请手动输入courseSchedId！")
+#         elif opt2 == '2':
+#             roomid = getIdByRoom.func()
+#             if roomid == None:
+#                 raise Exception("获取失败！请手动输入courseSchedId！")
                 
 
 pre()
