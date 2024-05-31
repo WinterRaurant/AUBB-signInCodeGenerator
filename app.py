@@ -18,6 +18,8 @@ def pre():
             else:
                 print('获取失败，请手动输入教室')
                 roomid = getIdByRoom.func()
+                if roomid == None:
+                    raise Exception("获取失败！请手动输入courseSchedId！")
         elif opt2 == '2':
             roomid = getIdByRoom.func()
             if roomid == None:
