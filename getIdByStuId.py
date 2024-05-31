@@ -58,11 +58,9 @@ def get_sessionID():
     }
 
     res = requests.get(url=url, params=para)
-    pat = r'"(\d*)","sessionId":"([A-Z0-9]+)"'
-    match = re.search(pat, res.text)
-
-    id = match.group(1)
-    sessionId = match.group(2)
+    userData = json.loads(res.text)
+    id = userData['result']['id']
+    sessionId = userData['result']['sessionId']
     return get_courseShcedID(userId=id, sessionId=sessionId)
 
 def func():
