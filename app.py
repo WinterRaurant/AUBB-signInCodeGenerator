@@ -9,7 +9,7 @@ import getIdByStuId
 roomid = None
 def pre():
     global roomid
-    flag, res = getIdByNum.func()
+    flag, res = getIdByStuId.func()
     if flag == 1:
         roomid = res
     else:

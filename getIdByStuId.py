@@ -6,7 +6,7 @@ from datetime import datetime
 student_number = ''
 
 
-def get_courseShcedID(userId, sessionId, date=datetime.now().strftime("%Y-%m-%d")):
+def get_courseShcedID(userId, sessionId, date=datetime.now().strftime("%Y%m%d")):
     headers = {
         'Accept': 'application/json, text/plain, */*',
         'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
